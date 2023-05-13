@@ -1,0 +1,5 @@
+python-dotenv
+notebook
+openai
+tqdm
+aiogram
